@@ -1,0 +1,5 @@
+c:\users\s00163169\documents\visual studio 2015\Projects\Class1\Class1\bin\Debug\Class1.dll
+c:\users\s00163169\documents\visual studio 2015\Projects\Class1\Class1\bin\Debug\Class1.pdb
+c:\users\s00163169\documents\visual studio 2015\Projects\Class1\Class1\obj\Debug\AssertDemo.csprojResolveAssemblyReference.cache
+c:\users\s00163169\documents\visual studio 2015\Projects\Class1\Class1\obj\Debug\Class1.dll
+c:\users\s00163169\documents\visual studio 2015\Projects\Class1\Class1\obj\Debug\Class1.pdb
